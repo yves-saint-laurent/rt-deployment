@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ab78ec1b-f70b-4d28-b05d-62b74ea2e8e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-details.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gatsby-node.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="259">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -363,12 +362,12 @@
       <workItem from="1565080422003" duration="4831000" />
       <workItem from="1565106414829" duration="8769000" />
       <workItem from="1566225040667" duration="76000" />
-      <workItem from="1566225155949" duration="48877000" />
+      <workItem from="1566225155949" duration="49230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206462000" />
+    <option name="totallyTimeSpent" value="206815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -719,8 +718,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gatsby-node.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="259">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
