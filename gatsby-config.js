@@ -15,14 +15,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-remote-images`,
-      options: {
-        nodeType: 'myNodes',
-        imagePath: 'imageUrl',
-
-      },
-    },
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-manifest`,
