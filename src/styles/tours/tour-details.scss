@@ -1,0 +1,85 @@
+@import "../global";
+
+.included-icon{
+  width: 1rem;
+  margin:0rem .5rem;
+}
+
+.included-list > li{
+  margin: .2rem 0rem;
+  font-size: .95rem;
+}
+
+.locations-list > li{
+  padding: .35rem 0rem;
+  margin: 0;
+  border-bottom: 1px solid rgba(52, 52, 52, 0.07);
+}
+
+.locations-list > li:hover{
+  background-color: rgba(0, 0, 0, 0.09);
+  cursor: pointer;
+}
+
+.text-smaller{
+  font-size: 0.98rem;
+  font-weight: 700;
+}
+
+.location-icon{
+  width: 1.5rem;
+  padding-top: .6rem;
+}
+
+.more-fix{
+  transform: translateY(-100%);
+}
+
+.no-underline{
+  text-decoration: none !important;
+}
+
+.display-7-2{
+  font-size: 1.75rem;
+}
+
+.details-icon{
+  width: 1.5rem;
+  margin: .1rem .4rem;
+}
+
+.text-secondary-2{
+  color: #5a6268;
+}
+
+.btn-icon{
+  width: 1.4rem;
+  transform: translateY(10%);
+  margin-left: 1.4rem;
+  position: absolute;
+  right: 1.6rem;
+}
+
+.btn-icon-overlay{
+  position: absolute;
+  width: calc(100% * 0.2);
+  height: 100%;
+  top: 0px;
+  right: 0px;
+  background-color: rgba(255, 255, 255, 0.11);
+  clip-path: polygon(20% 0, 100% 0, 100% 100%, 0% 100%);
+  transition: all 1.2s cubic-bezier(.37,-0.54,.62,.3);
+}
+
+.btn-icon:hover{
+  color: white;
+}
+
+.tour-details-button{
+  padding: .6rem 2rem;
+}
+
+.tour-details-button:hover > .btn-icon-overlay{
+  width: 100%;
+  opacity: 0;
+}
