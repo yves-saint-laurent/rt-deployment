@@ -20,7 +20,9 @@ h6{
   margin-top: 0rem !important;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
+
+
   .display-4{
     font-size: 2.3em;
   }
@@ -41,9 +43,36 @@ h6{
     width: 100%
   }
 
-  .react-tabs__tab-list{
-    border-bottom: none !important;
+
+
+  .react-tabs{
+    background-color: white;
   }
+
+  .react-tabs__tab{
+    border-left: 0px solid white !important;
+    border-top: 1px solid rgba(155,155,155,.2);
+  }
+}
+
+.display-1{
+  font-size: 5.5rem !important;
+  font-weight: 500;
+}
+
+.display-2{
+  font-size: 4.65rem !important;
+  font-weight: 500;
+}
+
+.display-3{
+  font-size: 3.95rem !important;
+  font-weight: 500;
+}
+
+.display-4{
+  font-size: 3.35rem !important;
+  font-weight: 500;
 }
 
 .text-small{
@@ -54,7 +83,6 @@ h6{
 
 html{
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 
 .space-candy{
@@ -87,8 +115,8 @@ li{
   margin: 0rem .5rem !important;
 }
 
-.float-right{
-  float: right;
+.display-3{
+  font-size: 4.5rem;
 }
 
 .list-unstyled{
@@ -122,7 +150,7 @@ li{
 }
 
 .display-5{
-  font-size:2.5rem;
+  font-size: 2.8rem !important;
   font-weight: 400 !important;
 }
 
@@ -175,11 +203,15 @@ figure{
 }
 
 .text-normal{
+  font-weight: 400 !important;
+}
+
+.text-medium{
   font-weight: 500 !important;
 }
 
 .text-bold{
-  font-weight: 400 !important;
+  font-weight: 600 !important;
 }
 
 .euro-sign::after{
@@ -187,13 +219,19 @@ figure{
   font-size: 0.7em;
 }
 
+.display-3{
+
+}
+
 .img-filter::before {
   content: '';
   top: 0;
-  width: 100%;
+  width: 100vw;
   height: 100%;
   filter: brightness(60%) blur(3px);
-  transform: scale(1.1)
+  //transform: scale(1.1)
+  padding: 0;
+  margin: 0;
 }
 
 .strikethrough{
@@ -249,6 +287,7 @@ figure{
 }
 
 
+
 .react-tabs__tab--selected{
   border-radius: 0px !important;
   border-top: 3px solid $color-info !important;
@@ -260,8 +299,8 @@ figure{
 .react-tabs__tab{
   border-radius: 0px;
   background-color: #eee;
-  margin-left: 2px !important;
-  margin: 0px;
+  margin: 0px !important;
+  border-left: 2px solid white;
   margin-bottom: 1px;
 }
 
@@ -270,6 +309,7 @@ figure{
 .react-tabs__tab-panel{
   margin-top: 2rem;
   margin-left: 0px;
+  overflow: auto;
 }
 
 .react-tabs__tab-list{
@@ -324,9 +364,23 @@ figure{
   border-top: 4px solid rgba(25, 25, 25, 0.86);
 }
 
+.border-bottom-primary{
+  border-bottom: 4px solid rgba(25, 25, 25, 0.86);
+}
+
+
+
+.bg-light-2{
+  background-color: #f0f0f0;
+}
+
+.border-top-secondary{
+  border-top: 4px solid #ff6526;
+
+}
+
 .border-top-success{
   border-top: 4px solid $color-success;
-
 }
 
 .text-complementary{

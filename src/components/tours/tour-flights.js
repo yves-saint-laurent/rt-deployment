@@ -15,6 +15,7 @@ const TourFlights = () => {
               <div className='text-bold reduced-line-height'>ATH</div>
               <div className='text-small text-secondary'>14:20</div>
             </div>
+
             <div className='col-4'>
               <img className='tour-flights-aviation-icon--departure' src={iconPlane} alt=""/>
             </div>

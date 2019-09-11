@@ -28,12 +28,10 @@ const Layout = ({ children }) => {
   `)
 
   return (
-    <div>
-      <AppRouter />
-      <div>
-        <main>{children}</main>
-        <Footer/>
-      </div>
+    <div className='p-0 m-0 container-fluid'>
+          <AppRouter />
+          {children}
+          {/*<Footer/>*/}
     </div>
   )
 }

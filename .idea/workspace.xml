@@ -2,125 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab78ec1b-f70b-4d28-b05d-62b74ea2e8e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/general/info-tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tours/tour-cities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tours/tour-important-note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tours/tour-reviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/berlin-panoramic-night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-quotation-mark-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-quotation-mark-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/illustration-review.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/indonesia-jakarta-center-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/indonesia-jakarta-center.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/indonesia-ubud-forrest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/tours/tour-cities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/tours/tour-important-notes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/tours/tour-reviews.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/general/datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/general/datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/city/city-info-tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/city/city-info-tabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/general/sights.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/general/sights.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/image-header/image-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image-header/image-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/tours/tour-flights.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-flights.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-info.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/tours/tour-intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-locations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-locations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-pricing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-pricing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/tours/tour-summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-summary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/datepicker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/datepicker.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tours/tour.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icon-arrow-left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icon-arrow-left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/city/city-info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/city/city-info.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/tours/tour-details.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tours/tour-details.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/tours/tour-flights.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tours/tour-flights.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/tours/tour-pricing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tours/tour-pricing.scss" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <ignored path=".idea/" />
-    <ignored path="../adm/.idea/" />
-    <ignored path="../.idea/" />
-    <ignored path="../rest-api/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/tours/tour-pricing.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2624">
-              <caret line="64" column="43" lean-forward="true" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-flights.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/tours/tour-flights.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/tours/tour-summary.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="35" column="81" selection-start-line="35" selection-start-column="81" selection-end-line="35" selection-end-column="81" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-summary.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-507">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/global.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/image-header/image-header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="123" column="77" selection-start-line="123" selection-start-column="77" selection-end-line="123" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/tours/tour-intro.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1302">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gatsby-node.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,170 +46,18 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>after</find>
-      <find>before</find>
-      <find>hidden</find>
-      <find>tour-pricing-table</find>
-      <find>hover</find>
-      <find>1s</find>
-      <find>transiti</find>
-      <find>transitio</find>
-      <find>επιλεξ</find>
-      <find>ημερο</find>
-      <find>tolocale</find>
-      <find>date-but</find>
-      <find>δισπλα</find>
-      <find>display-7</find>
-      <find>displ</find>
-      <find>console.log</find>
-      <find>locale</find>
-      <find>mark</find>
-      <find>locales</find>
-      <find>επιλογι</find>
-      <find>display-9</find>
-      <find>font-weight</find>
-      <find>.DayPicker-Day:</find>
-      <find>loca</find>
-      <find>marcella</find>
-      <find>επι</find>
-      <find>aviationAe</find>
-      <find>tour-flights-aviation-img</find>
-      <find>display-8</find>
-      <find>.display-5</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/components/utils/photo-grid.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-offer.js" />
-        <option value="$PROJECT_DIR$/src/components/image-headers/tour-image-header.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/general-info.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/flights.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-pdf.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-tabs.js" />
-        <option value="$PROJECT_DIR$/src/components/city/city-description.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/index.css" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-included.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-info-tabs.js" />
-        <option value="$PROJECT_DIR$/src/components/app-router.js" />
-        <option value="$PROJECT_DIR$/src/components/city/image.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-group.js" />
-        <option value="$PROJECT_DIR$/src/components/general/footer.js" />
-        <option value="$PROJECT_DIR$/src/components/city/city.js" />
-        <option value="$PROJECT_DIR$/src/styles/tours/tour-summary.scss" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-offer-wide.js" />
-        <option value="$PROJECT_DIR$/src/env/keys.js" />
-        <option value="$PROJECT_DIR$/src/env/keys/maps.key.js" />
-        <option value="$PROJECT_DIR$/src/styles/tour-schedule.scss" />
-        <option value="$PROJECT_DIR$/src/components/tour-schedule.js" />
-        <option value="$PROJECT_DIR$/src/components/general/bg-image.js" />
-        <option value="$PROJECT_DIR$/src/components/city/city-info.js" />
-        <option value="$PROJECT_DIR$/src/components/general/sights.js" />
-        <option value="$PROJECT_DIR$/src/utils/isMobile.js" />
-        <option value="$PROJECT_DIR$/src/styles/tours/tour-schedule.scss" />
-        <option value="$PROJECT_DIR$/src/components/general/image.js" />
-        <option value="$PROJECT_DIR$/src/pages/index.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-schedule.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-details.js" />
-        <option value="$PROJECT_DIR$/src/styles/tours/tour-pricing.js" />
-        <option value="$PROJECT_DIR$/src/styles/tours/tour-pricing-table.js" />
-        <option value="$PROJECT_DIR$/gatsby-config.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-locations.js" />
-        <option value="$PROJECT_DIR$/src/styles/tours/tour-details.scss" />
-        <option value="$PROJECT_DIR$/src/components/general/datepicker.js" />
-        <option value="$PROJECT_DIR$/src/styles/datepicker.scss" />
-        <option value="$PROJECT_DIR$/src/styles/tours/tour-pricing.scss" />
-        <option value="$PROJECT_DIR$/src/styles/tours/tour-flights.scss" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-summary.js" />
-        <option value="$PROJECT_DIR$/gatsby-node.js" />
-        <option value="$PROJECT_DIR$/src/components/image-header/image-header.js" />
-        <option value="$PROJECT_DIR$/src/styles/global.scss" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-intro.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-pricing.js" />
-        <option value="$PROJECT_DIR$/src/components/tours/tour-flights.js" />
-      </list>
-    </option>
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="335" />
-    <option name="y" value="495" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
+  <component name="ProjectId" id="1Q3nKv5iL4T2v08aRLDMIVjcwez" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="general" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="tours" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="tours" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -366,12 +130,15 @@
       <workItem from="1565080422003" duration="4831000" />
       <workItem from="1565106414829" duration="8769000" />
       <workItem from="1566225040667" duration="76000" />
-      <workItem from="1566225155949" duration="98977000" />
+      <workItem from="1566225155949" duration="101379000" />
+      <workItem from="1567007586021" duration="384000" />
+      <workItem from="1567008109390" duration="2509000" />
+      <workItem from="1567865872452" duration="16094000" />
+      <workItem from="1567899432828" duration="8191000" />
+      <workItem from="1567986996711" duration="3912000" />
+      <workItem from="1567991313114" duration="8612000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256562000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,445 +149,23 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12802951" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.22603431" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.19778001" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" visible="true" weight="0.19778001" />
-      <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/app-router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/seo.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/image.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/prop-types/prop-types.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="304" selection-start-column="304" selection-end-column="304" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/general/footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/city/Νανσι/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="5" column="153164" selection-start-line="5" selection-start-column="153164" selection-end-line="5" selection-end-column="153164" />
-          <folding>
-            <element signature="e#21530#21778#2" expanded="true" />
-            <element signature="e#22569#22736#1" expanded="true" />
-            <element signature="e#22776#23024#1" expanded="true" />
-            <element signature="e#25987#26277#2" expanded="true" />
-            <element signature="e#27096#27263#1" expanded="true" />
-            <element signature="e#27303#27593#1" expanded="true" />
-            <element signature="e#56261#56462#2" expanded="true" />
-            <element signature="e#56689#56839#2" expanded="true" />
-            <element signature="e#57238#57385#2" expanded="true" />
-            <element signature="e#59031#59198#1" expanded="true" />
-            <element signature="e#70405#70649#2" expanded="true" />
-            <element signature="e#71474#71724#2" expanded="true" />
-            <element signature="e#100531#100722#2" expanded="true" />
-            <element signature="e#100768#100959#2" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#figure#0;n#div#4;n#div#0;n#div#0;n#section#0;n#main#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#figure#0;n#div#4;n#div#0;n#div#0;n#section#0;n#main#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#figure#0;n#div#4;n#div#0;n#div#0;n#section#0;n#main#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#figure#0;n#div#4;n#div#0;n#div#0;n#section#0;n#main#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-group.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3672">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon-book.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/city/city-info-tabs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/city/city-info-tabs.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tour-schedule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="5" column="153416" selection-start-line="5" selection-start-column="153416" selection-end-line="5" selection-end-column="153416" />
-          <folding>
-            <element signature="e#25768#26002#2" expanded="true" />
-            <element signature="e#26806#26959#1" expanded="true" />
-            <element signature="e#26999#27233#1" expanded="true" />
-            <element signature="e#30239#30515#2" expanded="true" />
-            <element signature="e#31347#31500#1" expanded="true" />
-            <element signature="e#31540#31816#1" expanded="true" />
-            <element signature="e#61072#61259#2" expanded="true" />
-            <element signature="e#61488#61624#2" expanded="true" />
-            <element signature="e#62027#62160#2" expanded="true" />
-            <element signature="e#63642#63795#1" expanded="true" />
-            <element signature="e#75788#76018#2" expanded="true" />
-            <element signature="e#76885#77121#2" expanded="true" />
-            <element signature="e#106714#106891#2" expanded="true" />
-            <element signature="e#106937#107114#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/general/bg-image.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-offer-wide.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="58" column="68" selection-start-line="58" selection-start-column="68" selection-end-line="58" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/city/city.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/general/sights.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/isMobile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/city/city-info.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/general/image.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/env/keys/maps.keys.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-schedule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-datepicker/dist/react-datepicker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27729" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-day-picker/lib/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="164" column="16" selection-start-line="164" selection-end-line="164" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-day-picker/DayPickerInput.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-day-picker/DayPicker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-pricing-table.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-included.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-locations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-details.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-info.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-schedule.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-offer-wide.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-group.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/general/datepicker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/datepicker.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-pricing.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/image-header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-details.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-summary.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-507">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-summary.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="35" column="81" selection-start-line="35" selection-start-column="81" selection-end-line="35" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/image-header/image-header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="123" column="77" selection-start-line="123" selection-start-column="77" selection-end-line="123" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-intro.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-pricing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2624">
-          <caret line="64" column="43" lean-forward="true" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/tours/tour-flights.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tours/tour-flights.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

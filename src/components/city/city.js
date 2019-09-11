@@ -34,6 +34,16 @@ const City = (props) => {
       image: 'paris-eiffel-2.jpg',
       title: 'ΠΟΛΩΝΙΑ-ΒΙΕΝΝΗ ΚΑΛΟΚΑΙΡΙ 2019',
       price: '40€'
+    },
+    {
+      image: 'paris-eiffel-2.jpg',
+      title: 'ΠΟΛΩΝΙΑ-ΒΙΕΝΝΗ ΚΑΛΟΚΑΙΡΙ 2019',
+      price: '40€'
+    },
+    {
+      image: 'paris-notre.jpg',
+      title: 'ΠΟΛΩΝΙΑ-ΒΙΕΝΝΗ ΚΑΛΟΚΑΙΡΙ 2019',
+      price: '40€'
     }
   ]
 
@@ -132,7 +142,6 @@ const City = (props) => {
       <Sights sightsTitle={city.sightsTitle} sightsSubtitle={city.sightsSubtitle} sights={city.sights} />
       <TourOfferWide />
       <CityInfoTabs infoTitle={city.infoTitle} infoSubtitle={city.infoSubtitle} cityInfo={city.information} />
-      <InlineContactUs />
     </Layout>
   )
 }
