@@ -2,35 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab78ec1b-f70b-4d28-b05d-62b74ea2e8e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/general/info-tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tours/tour-cities.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tours/tour-important-note.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tours/tour-reviews.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/berlin-panoramic-night.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-quotation-mark-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-quotation-mark-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/illustration-review.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/indonesia-jakarta-center-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/indonesia-jakarta-center.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/indonesia-ubud-forrest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/tours/tour-cities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/tours/tour-important-notes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/tours/tour-reviews.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Sep-12-2019 00-39-52.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-arrow-left-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-navigate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adm/src/components/auth/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../adm/src/components/auth/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/city/city-info-tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/city/city-info-tabs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/general/sights.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/general/sights.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image-header/image-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image-header/image-header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-flights.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-flights.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-info.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-summary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tours/tour.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/icon-arrow-left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icon-arrow-left.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/city/city-info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/city/city-info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tours/tour-group.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tours/tour-group.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/tours/tour-cities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tours/tour-cities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/tours/tour-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tours/tour-group.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,6 +117,8 @@
       <workItem from="1567899432828" duration="8191000" />
       <workItem from="1567986996711" duration="3912000" />
       <workItem from="1567991313114" duration="8612000" />
+      <workItem from="1568229962170" duration="7186000" />
+      <workItem from="1568276728370" duration="7721000" />
     </task>
     <servers />
   </component>
